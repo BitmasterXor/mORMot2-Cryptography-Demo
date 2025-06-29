@@ -111,4 +111,4 @@
 <p>This project is provided as is without warranty, use at your own risk! Ensure proper security review before using in production environments.</p>
 ## 📧 Contact
 Discord: BitmasterXor
-<p align="center">Made with ❤️ by: BitmasterXor and Friends, using Delphi RAD Studio</p>
+<p align="center">Made with ❤️ by: BitmasterXor using Delphi RAD Studio</p>
